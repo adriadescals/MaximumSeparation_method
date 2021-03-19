@@ -3,7 +3,7 @@
 This repository contains the Jupyter notebook that shows the Python implementation of the Maximum Separation method, a variant of the threshold method for phenology metric estimation. 
 
 - Implementation of the method in Google Earth Engine: 
-https://code.earthengine.google.com/9abc2e7e42e028f4e26456ba3754a54a?noload=0
+https://code.earthengine.google.com/d0551f69fb0879b7d8248b4b883b942a?noload=0
 
 - Display results year 2019 (GEE link): 
 https://code.earthengine.google.com/6d1678aecfd68dc12ac240b88daa2abb?hideCode=true
